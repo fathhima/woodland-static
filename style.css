@@ -1,0 +1,38 @@
+.nav {
+    background-color: #0c5423;
+}
+
+.nav-link {
+    color: #0c5423;
+}
+
+.footer-logo,
+.footer-text {
+    background-color: #0c5423;
+    color: #fff;
+}
+
+.list {
+    list-style: none;
+}
+
+.footer-text {
+    margin: -2px;
+}
+
+.footer-icons i {
+    margin-right: 6%;
+    color: #fff;
+}
+
+.terms li {
+    list-style: none;
+
+    margin-right: 2%;
+}
+
+.terms li a {
+    color: #fff;
+    text-decoration: none;
+
+}
